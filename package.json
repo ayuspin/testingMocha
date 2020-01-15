@@ -1,0 +1,14 @@
+{
+  "name": "testingmocha",
+  "version": "1.0.0",
+  "description": "Mocha example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andrey Yuspin",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}
